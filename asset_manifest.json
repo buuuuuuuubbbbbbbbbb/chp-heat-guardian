@@ -1,0 +1,17 @@
+{
+  "project": "CHP Heat Guardian",
+  "deployment_status": "prepared; no external provider URL assigned",
+  "entrypoint": "index.html",
+  "runtime": "browser JavaScript; local HTML/CSS/JS assets",
+  "openai_runtime_dependency": false,
+  "replay_rows": 779,
+  "raw_workbook_included": false,
+  "contains_real_replay_measurements": true,
+  "sha256": {
+    "index.html": "2ff4a27a9f788fb6ed546217fd1b94315f5fedbf65d53dd89ced623200bffbef",
+    "styles.css": "75bda24c29d7cb77ba0d98212e8a9346d1facc1ea28a616595bb3ea8b75554b4",
+    "data.js": "78355f590a2e427d166b9fbd0c476861b5b58d0d1f5b40ea658c5f90da22785f",
+    "core.js": "15bec706a5e91757d9c04483cbdc388501276f609c9b774a50519b62f0d7a4df",
+    "app.js": "f60be3fe1c82434bd4321a1c4a0d1fbcf8eeae332932a607c1586b8c72197e23"
+  }
+}
